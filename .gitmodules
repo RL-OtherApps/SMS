@@ -1,0 +1,4 @@
+[submodule "NewRL/almazah_o_pos"]
+	path = NewRL/almazah_o_pos
+	url = git@github.com:NewRL/almazah_o_pos.git
+	branch = master
