@@ -1,0 +1,4 @@
+[submodule "NewRL/PVG"]
+	path = NewRL/PVG
+	url = git@github.com:NewRL/PVG.git
+	branch = master
