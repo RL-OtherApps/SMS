@@ -1,0 +1,4 @@
+[submodule "NewRL/Hvsfco"]
+	path = NewRL/Hvsfco
+	url = git@github.com:NewRL/Hvsfco.git
+	branch = production
