@@ -1,0 +1,4 @@
+[submodule "NewRL/Our_kids"]
+	path = NewRL/Our_kids
+	url = git@github.com:NewRL/Our_kids.git
+	branch = 12.0
