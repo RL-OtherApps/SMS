@@ -2,3 +2,8 @@
 	path = suxuefeng20/odooOaModels
 	url = git@github.com:suxuefeng20/odooOaModels.git
 	branch = 12.0
+
+[submodule "asphaltzipper/azi-odoo-modules"]
+	path = asphaltzipper/azi-odoo-modules
+	url = git@github.com:asphaltzipper/azi-odoo-modules.git
+	branch = 12.0
