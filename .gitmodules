@@ -37,3 +37,8 @@
 	path = ksolves-store/pos_low_stock_alert
 	url = git@github.com:ksolves-store/pos_low_stock_alert.git
 	branch = 12.0
+
+[submodule "ksolves-store/universal_tax"]
+	path = ksolves-store/universal_tax
+	url = git@github.com:ksolves-store/universal_tax.git
+	branch = 12.0
