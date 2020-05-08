@@ -1,0 +1,4 @@
+[submodule "clubit/edi-workflow"]
+	path = clubit/edi-workflow
+	url = git@github.com:clubit/edi-workflow.git
+	branch = 12.0
