@@ -32,3 +32,8 @@
 	path = ksolves-store/percent_field
 	url = git@github.com:ksolves-store/percent_field.git
 	branch = 12.0
+
+[submodule "ksolves-store/pos_low_stock_alert"]
+	path = ksolves-store/pos_low_stock_alert
+	url = git@github.com:ksolves-store/pos_low_stock_alert.git
+	branch = 12.0
