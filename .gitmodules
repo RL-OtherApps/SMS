@@ -1,0 +1,4 @@
+[submodule "RL-OtherApps/jo_hrms"]
+	path = RL-OtherApps/jo_hrms
+	url = git@github.com:RL-OtherApps/jo_hrms.git
+	branch = 12.0
