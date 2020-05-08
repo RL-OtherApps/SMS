@@ -27,3 +27,8 @@
 	path = ksolves-store/debug-assets-permission
 	url = git@github.com:ksolves-store/debug-assets-permission.git
 	branch = 12.0
+
+[submodule "ksolves-store/percent_field"]
+	path = ksolves-store/percent_field
+	url = git@github.com:ksolves-store/percent_field.git
+	branch = 12.0
