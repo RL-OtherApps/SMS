@@ -1,0 +1,4 @@
+[submodule "suxuefeng20/odooOaModels"]
+	path = suxuefeng20/odooOaModels
+	url = git@github.com:suxuefeng20/odooOaModels.git
+	branch = 12.0
