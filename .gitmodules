@@ -2,3 +2,8 @@
 	path = RL-OtherApps/jo_hrms
 	url = git@github.com:RL-OtherApps/jo_hrms.git
 	branch = 12.0
+
+[submodule "Royalline"]
+	path = Royalline
+	url = git@github.com:RLJO/Royalline.git
+	branch = Bak1-4
