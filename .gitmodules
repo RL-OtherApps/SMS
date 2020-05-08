@@ -7,3 +7,8 @@
 	path = Royalline
 	url = git@github.com:RLJO/Royalline.git
 	branch = Bak1-4
+
+[submodule "RL-OtherApps/app-odoo"]
+	path = RL-OtherApps/app-odoo
+	url = git@github.com:RL-OtherApps/app-odoo.git
+	branch = 12.0
