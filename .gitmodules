@@ -17,3 +17,8 @@
 	path = ksolves-store/universal_discount
 	url = git@github.com:ksolves-store/universal_discount.git
 	branch = 12.0
+
+[submodule "OCA/web"]
+	path = OCA/web
+	url = git@github.com:OCA/web.git
+	branch = 12.0
