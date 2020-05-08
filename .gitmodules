@@ -57,3 +57,8 @@
 	path = timesheet
 	url = git@github.com:OCA/timesheet.git
 	branch = 12.0
+
+[submodule "OCA/product-attribute"]
+	path = OCA/product-attribute
+	url = git@github.com:OCA/product-attribute.git
+	branch = 12.0
