@@ -12,3 +12,8 @@
 	path = RL-OtherApps/app-odoo
 	url = git@github.com:RL-OtherApps/app-odoo.git
 	branch = 12.0
+
+[submodule "waw-odoo/waw"]
+	path = waw-odoo/waw
+	url = git@github.com:waw-odoo/waw.git
+	branch = freight
